@@ -18,7 +18,7 @@ disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # add disqus comments
   # home page profile
   avatar = 'studyenglishonly@gmail.com'       # Gravatar email or image url(e.g. "https://deno.land/logo.svg")
   name = 'Ben'
-  bio = 'secret'
+  bio = 'part time programmer who want to make everything simplify for everyone'
 
   # misc
   disableHLJS = true              # disable requesting highlight.js
