@@ -5,3 +5,4 @@
 # Open config.toml, change theme to '_'
 # add file to following dir: .github/workflows/gh-pages.yml
 # check: https://gohugo.io/hosting-and-deployment/hosting-on-github/ for latest update regard to the content of this file
+# from config.toml use 'baseURL = 'https:_'
