@@ -2,3 +2,4 @@
 # how_to_run_hugo_on_github_pages (from local machine to github repo)
 # hugo new site ____
 # git submodule add _ themes _ 
+# Open config.toml, change theme to '_'
