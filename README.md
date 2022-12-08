@@ -6,3 +6,7 @@
 # add file to following dir: .github/workflows/gh-pages.yml
 # check: https://gohugo.io/hosting-and-deployment/hosting-on-github/ for latest update regard to the content of this file
 # from config.toml use 'baseURL = 'https:_'
+# git branch -M main
+# git remote add origin _____
+# git commit -m "first commit"
+# git push -u origin main
